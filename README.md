@@ -28,6 +28,10 @@ nostr-json -name peter -npub npub1lzkvkjqs8amrd9m0dmhf4l3wdf7tjawyslrcm96zgttrxz
 }
 ```
 
+## Links
+
+ - [NIP-19](https://github.com/nostr-protocol/nips/blob/master/19.md)
+
 ## License (MIT)
 
 Copyright (c) 2023 [Peter Hellberg](https://c7.se)
