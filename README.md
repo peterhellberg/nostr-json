@@ -28,6 +28,9 @@ nostr-json -name peter -npub npub1lzkvkjqs8amrd9m0dmhf4l3wdf7tjawyslrcm96zgttrxz
 }
 ```
 
+> **Note**: You can also run the tool without first installing it:
+> `go run github.com/peterhellberg/nostr-json@v1.0.0 -name peter -npub npub1lzkvkjqs8amrd9m0dmhf4l3wdf7tjawyslrcm96zgttrxzfx9kcsn0dz7s`
+
 ## Links
 
  - [NIP-19](https://github.com/nostr-protocol/nips/blob/master/19.md)
